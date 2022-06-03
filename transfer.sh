@@ -1,0 +1,1 @@
+scp -i ~/Downloads/OfficeLaptop.pem -r /home/nesoft/Downloads/React_Movie/movie_frontend ubuntu@ec2-52-23-231-210.compute-1.amazonaws.com:~/
